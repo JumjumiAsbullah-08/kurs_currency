@@ -1,3 +1,5 @@
-# Example of system-level dependencies if required
-# libgl1-mesa-glx
-# libglib2.0-0
+libglib2.0-0
+libsm6
+libxrender1
+libfontconfig1
+libice6
